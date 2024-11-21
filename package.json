@@ -1,5 +1,5 @@
 {
-  "name": "@ryanatkn/fuz_template",
+  "name": "zzzbot.dev",
   "version": "0.0.1",
   "description": "swarming botz",
   "glyph": "🎭",
@@ -7,7 +7,7 @@
   "logo_alt": "a friendly pixelated spider facing you",
   "public": true,
   "homepage": "https://www.zzzbot.dev/",
-  "repository": "https://github.com/ryanatkn/fuz_template",
+  "repository": "https://github.com/ryanatkn/zzzbot.dev",
   "scripts": {
     "start": "gro dev",
     "dev": "gro dev",

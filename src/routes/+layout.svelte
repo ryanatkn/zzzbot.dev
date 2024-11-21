@@ -22,7 +22,7 @@
 </script>
 
 <svelte:head>
-	<title>@ryanatkn/fuz_template</title>
+	<title>zzzbot.dev</title>
 </svelte:head>
 
 <svelte:body
