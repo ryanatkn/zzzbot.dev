@@ -1,6 +1,6 @@
 <script lang="ts">
-	import Svg from '@ryanatkn/fuz/Svg.svelte';
-	import {fuz_logo} from '@ryanatkn/fuz/logos.js';
+	// import Svg from '@ryanatkn/fuz/Svg.svelte';
+	// import {fuz_logo} from '@ryanatkn/fuz/logos.js';
 	import Card from '@ryanatkn/fuz/Card.svelte';
 	import {base} from '$app/paths';
 </script>
@@ -8,10 +8,11 @@
 <main>
 	<section class="box">
 		<header class="box pt_xl">
-			<Svg data={fuz_logo} size="var(--icon_size_xl)" />
+			<!-- <Svg data={fuz_logo} size="var(--icon_size_xl)" /> -->
+			<span class="icon_size_xl2">🎭</span>
 			<h1 class="mt_xl2">zzzbot</h1>
 		</header>
-		<blockquote>bot control hq 💤 wip</blockquote>
+		<blockquote>bot control hq 🎭 wip</blockquote>
 		<Card href="{base}/about" icon={''}>about</Card>
 	</section>
 </main>

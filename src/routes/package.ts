@@ -8,7 +8,7 @@ export const package_json = {
 	version: '0.0.1',
 	description:
 		'a static web app and Node library template with TypeScript, Svelte, SvelteKit, Vite, esbuild, Fuz, and Gro',
-	glyph: '💤',
+	glyph: '🎭',
 	logo: 'logo.svg',
 	logo_alt: 'a friendly pixelated spider facing you',
 	public: true,
