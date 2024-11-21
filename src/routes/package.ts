@@ -8,11 +8,11 @@ export const package_json = {
 	version: '0.0.1',
 	description:
 		'a static web app and Node library template with TypeScript, Svelte, SvelteKit, Vite, esbuild, Fuz, and Gro',
-	glyph: '❄',
+	glyph: '💤',
 	logo: 'logo.svg',
 	logo_alt: 'a friendly pixelated spider facing you',
 	public: true,
-	homepage: 'https://template.fuz.dev/',
+	homepage: 'https://www.zzzbot.dev/',
 	repository: 'https://github.com/ryanatkn/fuz_template',
 	scripts: {
 		start: 'gro dev',
