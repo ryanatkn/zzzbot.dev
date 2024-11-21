@@ -12,7 +12,7 @@
 			<span class="icon_size_xl2">🎭</span>
 			<h1 class="mt_xl2">zzzbot</h1>
 		</header>
-		<blockquote>swarming botz 🎭 wip</blockquote>
+		<blockquote>botslopfest 🎭 wip</blockquote>
 		<Card href="{base}/about" icon={''}>about</Card>
 	</section>
 </main>
