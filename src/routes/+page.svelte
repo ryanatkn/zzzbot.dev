@@ -11,7 +11,7 @@
 			<Svg data={fuz_logo} size="var(--icon_size_xl)" />
 			<h1 class="mt_xl2">zzzbot</h1>
 		</header>
-		<blockquote>bot control 💤 hq wip</blockquote>
+		<blockquote>bot control hq 💤 wip</blockquote>
 		<Card href="{base}/about" icon={''}>about</Card>
 	</section>
 </main>
